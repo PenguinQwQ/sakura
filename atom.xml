@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hjr&#39;s blog</title>
+  
+  <subtitle>Hello!Welcome to my blog!</subtitle>
+  <link href="/sakura/atom.xml" rel="self"/>
+  
+  <link href="https://yoursite.com/sakura/"/>
+  <updated>2020-03-16T10:41:30.000Z</updated>
+  <id>https://yoursite.com/sakura/</id>
+  
+  <author>
+    <name>Steve hjr</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="https://yoursite.com/sakura/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://yoursite.com/sakura/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2020-03-16T10:41:30.000Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="https://yoursite.com/sakura/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://yoursite.com/sakura/tags/web/"/>
+    
+      <category term="悦读" scheme="https://yoursite.com/sakura/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
